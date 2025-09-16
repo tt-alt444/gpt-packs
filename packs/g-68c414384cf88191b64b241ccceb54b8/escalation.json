@@ -1,0 +1,7 @@
+{ "ladder": [
+  {"step":"Ask","days":3},
+  {"step":"Team Manager","days":7},
+  {"step":"Service Manager","days":10},
+  {"step":"Council Complaint (stage 1/2)","days":20},
+  {"step":"ICO/LGSCO","days":7}
+]}
