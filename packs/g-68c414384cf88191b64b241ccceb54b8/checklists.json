@@ -1,0 +1,7 @@
+{
+  "menus": {
+    "direct_work_child": ["setting","who present","script","prompts","quotes","read-back","sharing basis/date/audience","training"],
+    "mash_strategy": ["referral details","screening decision","RAG","oversight","audit log","rationale","timescales"]
+  }
+}
+
