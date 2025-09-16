@@ -1,0 +1,5 @@
+{
+  "modes": ["ANALYSIS","WARNING","EMAIL","COMPLAINT","OMBUDSMAN","SAR","DIRECTIONS","STATEMENT","RED-TEAM"],
+  "ops_lane": { "confidentiality_script": "Setting; who present; script; prompts; quotes; read-back; sharing basis." },
+  "evidence_lane": { "transcript_header": "Date | Source | Event | Who present | Verbatim | Action/Outcome | Next step" }
+}
