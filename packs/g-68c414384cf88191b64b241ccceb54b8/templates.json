@@ -1,0 +1,5 @@
+{
+  "email_ops": "Subject: <one ask>\nDear <name>,\n<ask + deadline + fallback>\n\nDocuments will be handled by the data team.",
+  "complaint_stage1": "Heads; chronology; remedy; timetable.",
+  "directions_disclosure": ["items","parameters","timetable"]
+}
