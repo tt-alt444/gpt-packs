@@ -1,0 +1,7 @@
+{
+  "agents": [
+    { "id": "skeptic",    "name": "Sophie Grant", "role": "Sceptic / operator" },
+    { "id": "strategist", "name": "Amir Patel",   "role": "Strategist" },
+    { "id": "child_voice","name": "Kay Ellis",    "role": "Ethics / child voice" }
+  ]
+}
